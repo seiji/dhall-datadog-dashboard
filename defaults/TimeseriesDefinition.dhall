@@ -2,6 +2,7 @@
 , legend_layout = Some "auto"
 , markers = None (List { display_type : Text, value : Text })
 , show_legend = Some False
+, time = None {}
 , title_align = None Text
 , title_size = None Text
 , type = Some "timeseries"

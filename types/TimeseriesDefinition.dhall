@@ -3,6 +3,7 @@
 , markers : Optional (List { display_type : Text, value : Text })
 , requests : List ./TimeseriesRequest.dhall
 , show_legend : Optional Bool
+, time : Optional {}
 , title : Text
 , title_align : Optional Text
 , title_size : Optional Text
