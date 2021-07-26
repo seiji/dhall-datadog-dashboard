@@ -1,5 +1,4 @@
 {
-, apm_query : Optional ./TimeseriesRequestApmQuery.dhall
 , display_type : Text
 , formulas : Optional (List { formula : Text })
 , on_right_yaxis : Optional Bool

@@ -8,7 +8,6 @@
     , Timeseries = ./schemas/Timeseries.dhall
     , TimeseriesDefinition = ./schemas/TimeseriesDefinition.dhall
     , TimeseriesRequest = ./schemas/TimeseriesRequest.dhall
-    , TimeseriesRequestApmQuery = ./schemas/TimeseriesRequestApmQuery.dhall
     , TimeseriesRequestQuery = ./schemas/TimeseriesRequestQuery.dhall
     }
 /\  { Resource = ./unionTypes.dhall }

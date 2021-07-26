@@ -1,1 +1,1 @@
-{ layout_type = Some "ordered", show_title = None Bool, type = Some "group" }
+{ layout_type = Some "ordered", show_title = Some True, type = Some "group" }

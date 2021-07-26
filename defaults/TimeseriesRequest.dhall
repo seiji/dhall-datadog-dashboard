@@ -1,9 +1,8 @@
 {
-, apm_query = None ../types/TimeseriesRequestApmQuery.dhall
 , display_type = "line"
 , formulas = None (List { formula : Text })
 , on_right_yaxis = Some False
 , q = None Text
 , queries = None (List ../types/TimeseriesRequestQuery.dhall)
-, response_format = None Text
+, response_format = Some "timeseries"
 }

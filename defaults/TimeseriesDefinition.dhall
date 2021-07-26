@@ -1,5 +1,5 @@
-{ legend_columns = None (List Text)
-, legend_layout = None Text
+{ legend_columns = Some ["value", "avg", "sum", "min", "max"]
+, legend_layout = Some "auto"
 , markers = None (List { display_type : Text, value : Text })
 , show_legend = Some False
 , title_align = None Text
