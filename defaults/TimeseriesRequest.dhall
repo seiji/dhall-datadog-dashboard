@@ -1,5 +1,4 @@
-{
-, display_type = "line"
+{ display_type = "line"
 , formulas = None (List { formula : Text })
 , on_right_yaxis = Some False
 , q = None Text
