@@ -1,8 +1,8 @@
 { has_background = Some True
 , has_border = Some True
 , horizontal_align = Some "center"
-, margin = Some "md"
+, margin = None Text
 , sizing = Some "contain"
-, type = Some "image"
+, type = "image"
 , vertical_align = Some "center"
 }

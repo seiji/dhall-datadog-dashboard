@@ -1,1 +1,4 @@
-{ id : Optional Natural, definition : ./TimeseriesDefinition.dhall }
+{ definition : ./TimeseriesDefinition.dhall
+, layout : Optional ./Layout.dhall
+, id : Optional Natural
+}

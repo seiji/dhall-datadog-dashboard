@@ -1,4 +1,4 @@
-{ definition : ./ImageDefinition.dhall
+{ definition : ./NoteDefinition.dhall
 , id : Optional Natural
 , layout : Optional ./Layout.dhall
 }

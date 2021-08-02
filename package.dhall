@@ -4,9 +4,13 @@
   , HostmapDefinition = ./schemas/HostmapDefinition.dhall
   , Image = ./schemas/Image.dhall
   , ImageDefinition = ./schemas/ImageDefinition.dhall
+  , Note = ./schemas/Note.dhall
+  , NoteDefinition = ./schemas/NoteDefinition.dhall
   , QueryValue = ./schemas/QueryValue.dhall
   , QueryValueDefinition = ./schemas/QueryValueDefinition.dhall
   , QueryValueRequest = ./schemas/QueryValueRequest.dhall
+  , SLO = ./schemas/SLO.dhall
+  , SLODefinition = ./schemas/SLODefinition.dhall
   , Timeseries = ./schemas/Timeseries.dhall
   , TimeseriesDefinition = ./schemas/TimeseriesDefinition.dhall
   , TimeseriesRequest = ./schemas/TimeseriesRequest.dhall
