@@ -1,1 +1,4 @@
-{ id : Optional Natural, definition : ./QueryValueDefinition.dhall }
+{ definition : ./QueryValueDefinition.dhall
+, layout : Optional ./Layout.dhall
+, id : Optional Natural
+}
