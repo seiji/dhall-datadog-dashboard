@@ -1,4 +1,6 @@
-  { Group = ./schemas/Group.dhall
+  { EventTimeline = ./schemas/EventTimeline.dhall
+  , EventTimelineDefinition = ./schemas/EventTimelineDefinition.dhall
+  , Group = ./schemas/Group.dhall
   , GroupDefinition = ./schemas/GroupDefiniton.dhall
   , Hostmap = ./schemas/Hostmap.dhall
   , HostmapDefinition = ./schemas/HostmapDefinition.dhall

@@ -1,9 +1,9 @@
-{ has_background : Optional Bool
-, has_border : Optional Bool
-, horizontal_align : Optional Text
+{ has_background : Bool
+, has_border : Bool
+, horizontal_align : Text
 , margin : Optional Text
-, sizing : Optional Text
+, sizing : Text
 , type : Text
 , url : Text
-, vertical_align : Optional Text
+, vertical_align : Text
 }

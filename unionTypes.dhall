@@ -1,4 +1,5 @@
-< Hostmap : ./types/Hostmap.dhall
+< EventTimeline : ./types/EventTimeline.dhall
+| Hostmap : ./types/Hostmap.dhall
 | Image : ./types/Image.dhall
 | Note : ./types/Note.dhall
 | QueryValue : ./types/QueryValue.dhall

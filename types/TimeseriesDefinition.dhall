@@ -1,13 +1,13 @@
-{ legend_columns : Optional (List Text)
-, legend_layout : Optional Text
+{ legend_columns : List Text
+, legend_layout : Text
 , markers : Optional (List { display_type : Text, value : Text })
 , requests : List ./TimeseriesRequest.dhall
-, show_legend : Optional Bool
+, show_legend : Bool
 , time : Optional {}
 , title : Text
 , title_align : Optional Text
 , title_size : Optional Text
-, type : Optional Text
+, type : Text
 , yaxis :
     Optional
       { include_zero : Bool
