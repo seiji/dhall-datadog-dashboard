@@ -1,4 +1,6 @@
-  { EventTimeline = ./schemas/EventTimeline.dhall
+  { EventStream = ./schemas/EventStream.dhall
+  , EventStreamDefinition = ./schemas/EventStreamDefinition.dhall
+  , EventTimeline = ./schemas/EventTimeline.dhall
   , EventTimelineDefinition = ./schemas/EventTimelineDefinition.dhall
   , Group = ./schemas/Group.dhall
   , GroupDefinition = ./schemas/GroupDefiniton.dhall

@@ -1,4 +1,5 @@
-< EventTimeline : ./types/EventTimeline.dhall
+< EventStream : ./types/EventStream.dhall
+| EventTimeline : ./types/EventTimeline.dhall
 | Hostmap : ./types/Hostmap.dhall
 | Image : ./types/Image.dhall
 | Note : ./types/Note.dhall
