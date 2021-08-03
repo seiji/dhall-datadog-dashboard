@@ -3,5 +3,5 @@
 , on_right_yaxis = Some False
 , q = None Text
 , queries = None (List ../types/TimeseriesRequestQuery.dhall)
-, response_format = Some "timeseries"
+, response_format = "timeseries"
 }

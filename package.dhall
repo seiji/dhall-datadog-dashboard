@@ -1,4 +1,7 @@
-  { EventStream = ./schemas/EventStream.dhall
+  { Change = ./schemas/Change.dhall
+  , ChangeDefinition = ./schemas/ChangeDefinition.dhall
+  , ChangeRequest = ./schemas/ChangeRequest.dhall
+  , EventStream = ./schemas/EventStream.dhall
   , EventStreamDefinition = ./schemas/EventStreamDefinition.dhall
   , EventTimeline = ./schemas/EventTimeline.dhall
   , EventTimelineDefinition = ./schemas/EventTimelineDefinition.dhall

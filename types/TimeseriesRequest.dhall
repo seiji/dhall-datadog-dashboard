@@ -3,7 +3,7 @@
 , on_right_yaxis : Optional Bool
 , q : Optional Text
 , queries : Optional (List ./TimeseriesRequestQuery.dhall)
-, response_format : Optional Text
+, response_format : Text
 , style :
     { line_type : Optional Text, line_width : Optional Text, palette : Text }
 }
