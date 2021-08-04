@@ -1,6 +1,6 @@
 { legend_columns = [ "value", "avg", "sum", "min", "max" ]
 , legend_layout = "auto"
-, markers = Some ([] : List { display_type : Text, value : Text })
+, markers = [] : List { display_type : Text, value : Text }
 , show_legend = False
 , time = None {}
 , title_align = None Text

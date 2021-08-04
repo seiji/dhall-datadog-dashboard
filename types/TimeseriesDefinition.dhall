@@ -1,6 +1,6 @@
 { legend_columns : List Text
 , legend_layout : Text
-, markers : Optional (List { display_type : Text, value : Text })
+, markers : List { display_type : Text, value : Text }
 , requests : List ./TimeseriesRequest.dhall
 , show_legend : Bool
 , time : Optional {}
