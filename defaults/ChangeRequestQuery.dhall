@@ -1,3 +1,1 @@
-{ aggregator = Some "avg"
-, data_source = Some "metrics"
-}
+{ aggregator = Some "avg", data_source = Some "metrics" }
