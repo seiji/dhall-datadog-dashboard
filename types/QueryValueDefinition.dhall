@@ -1,5 +1,5 @@
 { autoscale : Bool
-, custom_uinit : Optional Text
+, custom_unit : Optional Text
 , precision : Natural
 , requests : List ./QueryValueRequest.dhall
 , time : Optional {}
