@@ -1,4 +1,5 @@
 { autoscale = True
+, custom_unit = None Text
 , precision = 0
 , time = None {}
 , text_align = Some "right"
